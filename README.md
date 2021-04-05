@@ -1,4 +1,4 @@
-# vue-shop-clother-app
+# vue-ecommerce-ver3
 
 ## Project setup
 ```
